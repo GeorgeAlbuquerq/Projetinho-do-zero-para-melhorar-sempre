@@ -1,0 +1,109 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="estilo.css">
+</head>
+ <body>
+	<h1> <center> OLIMPÍADAS </center> </h1>
+		<ul>
+			<li> <a href="pagina1.html"> Atletas </a></li>
+			<li> <a href="pagina2.html"> Jogos </a></li>
+			<li> <a href="pagina3.html"> Países </a></li>
+		</ul>
+	<h3> Ajude quem está caído </h3>
+	
+	<h4 class="tx"> 
+	Há muitos tempos que esperamos para ver quem irá nos socorrer, a vida leva e tras muitas novidades dentre elas, está o esporte onde se tem como referência a queda, o suor, a luta, o atletismo.
+		<p> Esse é o principal esporte olímpico, conforme expressa a frase que circula nesse meio: “Os Jogos Olímpicos podem acontecer apenas com o Atletismo. Nunca, sem ele.” </p>
+	As provas de atletismo são realizadas em estádios, no campo, em montanha e na rua. A pista de atletismo oficial deve ser feita com piso sintético e ter 8 raias, cada uma medindo 1,22 m de largura. 
+		<p>Seja como for devemos sempre lembrar que podemos ser como esses atletas sem medo e com a luta diária que temos que correr para sempre alcançar nossos objetivos.</p>
+	</h4>
+	  <img src="atletaajudando.jpg" height=50%>
+		<div class="levanta"> Atletas se ajudando </div>
+		
+	<form name="cadastro_clientes" action="cad_clientes.html" method="get" href="cad_clientes"> 
+				
+		<H2><p>Preencha seu formulário para receber mais informações sobre as olimpíadas </p></H2> 
+			<P>Nome completo: <INPUT NAME="txtNome" TYPE="text" SIZE=35 MAXLENGHT=50> </P> 
+			<P>Endereço: <INPUT NAME="txtEndereco" TYPE="text" SIZE=41 MAXLENGHT=50></P> 
+			<P>Bairro: <INPUT NAME="txtBairro" TYPE="text" SIZE=44 MAXLENGHT=30></P> 
+			<P>Cidade: <INPUT NAME="txtCidade" TYPE="text" SIZE=43 MAXLENGHT=30></P> 
+			<P>Estado: <INPUT NAME="txtEstado" TYPE="text" SIZE=43 MAXLENGHT=2></P> 
+			<P>CEP: <INPUT NAME="txtCEP" TYPE="text" SIZE=10 MAXLENGHT=9></P> 
+			<P> 
+			<INPUT name="btnEnviar" type="image" src="enviar.png" height=5%>
+			</p>
+	</form>
+ </body>
+</html>
+
+PAG 1:
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+<h1> <center> OLIMPÍADAS </center> </h1>	
+<h3 class="h3pag1"> Maiores atletas de todos os tempos </h3>
+	
+	<h4 class="txpag1">
+		<ol>
+			<li>Michael Phelps - 28 medalhas </li>
+				<h5>Michael Fred Phelps II é um nadador profissional americano aposentado, conquistou trinta e sete recordes mundiais e 
+				conquistou o maior número de medalhas de ouro olímpicas em uma única edição, feito este realizado nos Jogos de Pequim, na China, em agosto de 2008.</h5>
+				
+			<li>Larisa Latynina - 18 medalhas </li>
+				<h5> Latynina é uma ex-ginasta soviética nascida na Ucrânia. Participou de três Jogos Olímpicos representando a antiga 
+				União Soviética, conquistando um total de dezoito medalhas – sendo nove de ouro – que a tornaram a maior medalhista olímpica de todos os tempos por décadas.</h5>
+				
+			<li>Nikolai Andrianov - 15 medalhas</li>
+				<h5>Andrianov conquistou o recorde do maior número de medalhas olímpicas entre atletas homens, com 15 medalhas, sete das 
+				quais de ouro, e o manteve até ser superado pelo nadador norte-americano Michael Phelps nos Jogos de Pequim de 2008.</h5>
+				
+			<li>Boris Shakhlin - 13 medalhas</li>
+				<h5>Boris Anfiyanovich Shakhlin, foi um ginasta soviético, nascido na Rússia, que competiu em provas de ginástica artística 
+				pela União Soviética. Boris foi campeão olímpico do concurso geral nos Jogos Olímpicos de Roma, no Mundial de Moscou e no Europeu de Frankfurt, garantindo assim 
+				13 medalhas no total de sua carreira</h5>
+				
+			<li>Edoardo Mangiarotti - 13 medalhas </li>
+				<h5> Foi eleito o maior de todos os esgrimistas com 13 medalhas em olimpíadas porém trazendo em sua bagagem um total de 39 medalhas em campeonatos mundiais e 
+				olimpíadas.</h5>
+				
+			<li>Takashi Ono - 13 medalhas </li>
+				<h5>Takashi Ono foi um ginasta japonês, que competiu em provas de ginástica artística. Entre suas conquistam estão oito medalhas 
+				mundiais e treze olímpicas, sendo quatro delas de ouro.</h5>
+				
+			<li>Paavo Nurmi - 12 medalhas</li>
+				<h5>Este atleta lendário e grande ídolo do esporte estabeleceu em sua época 22 recordes mundiais nas distâncias de 1.500 e 2.000 metros.
+				Nas Olimpíadas de 1920, 1924 e 1928, ganhou nove medalhas de ouro (cinco das quais obtidas nas Olimpíadas de 1924, realizadas em Paris) e três de prata.</h5>
+				
+			<li>Alexei Nemov - 12 medalhas</li>
+				<h5>Alexei é um ex-ginasta russo, que competia em provas de ginástica artística. Alexei conquistou um total de doze medalhas olímpicas; 
+				sendo quatro de ouro, duas de prata e seis de bronze.</h5>
+				
+			<li>Dara Torres - 12 medalhas</li>
+				<h5>Dara Grace Torres é uma nadadora norte-americana. Foi a primeira nadadora de seu país a competir em cinco edições dos Jogos Olímpicos: 
+				1984, 1988, 1992, 2000 e 2008. Conquistou doze medalhas olímpicas, inclusive quatro de ouro, sendo cinco medalhas apenas em 2000, 
+				jogos nos quais era a mais velha do time com 33 anos.</h5>
+				
+			<li>Natalie Coughlin - 12 medalhas</li>
+				<h5>Conquistou cinco medalhas nas Olimpíadas de Atenas em 2004, sendo duas de ouro, nos 100 metros costas e no revezamento 4x200 metros livre 
+				(juntamente com Carly Piper, Dana Vollmer e Kaitlin Sandeno), duas de prata, nos revezamentos 4x100 metros livre (juntamente com Kara Lynn Joyce,
+				Amanda Weir e Jenny Thompson) e 4x100 metros medley (juntamente com Amanda Beard, Jenny Thompson e Kara Lynn Joyce), e uma de bronze nos 100 metros livre.</h5>
+			
+		</ol> 
+		
+	<h3> Atletas</h3>
+			<p><img src="phelps.jpg" height=50%></p>
+				<a href="https://bestswimming.swimchannel.net/2021/02/17/michael-phelps-medals-more-novo-documentario-em-breve/"> Bestswimming.net</a>
+			<p><img src="takashi.jpg" height=50%></p>
+				<p><a href="http://pt.infobiografias.com/biografia/27857/Takashi--Ono.html">Infobiografias.com </a></p>
+			<img src="natalie.jpg" height=50%>
+				<p><a href="https://www.teamusa.org/News/2020/October/28/TwelveTime-Olympic-Medalist-Natalie-Coughlin-Welcomes-Baby-No"> Teamusa.org </a> </p>
+		
+		
+</body>
+</html>
